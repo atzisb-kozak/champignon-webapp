@@ -1,0 +1,231 @@
+/* groupe information */
+.card_box {
+	position: absolute;
+	width: 746px;
+	height: 380px;
+}
+
+
+
+
+/* Rectangle 16 */
+.card_container {
+	position: absolute;
+	width: 1200px;
+	height: 300px;
+	left: 200px;
+	top: 608px;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
+
+
+/* Procedure Co2 */
+.gestion_co2_value {
+	position: absolute;
+	width: 198px;
+	height: 35px;
+	left: 76.4%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+/* 25 */
+.days_value {
+	position: absolute;
+	width: 34px;
+	height: 35px;
+	left: 100%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+/* nombre de jour */
+.days {
+	position: absolute;
+	width: 222px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+/* gestion Hum */
+.gestion_hum {
+	position: absolute;
+	width: 175px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+/* gestion Co2 */
+.gestion_co2 {
+	position: absolute;
+	width: 164px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* gestion Air */
+.gestion_air {
+	position: absolute;
+	width: 147px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* Information etat */
+.card_title {
+	position: absolute;
+	width: 217px;
+	height: 35px;
+	top: 20px;
+	left: 40%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* Procedure Air */
+.gestion_air_value {
+	position: absolute;
+	width: 182px;
+	height: 35px;
+	left: 79%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* Procedure Hum */
+.gestion_hum_value {
+	position: absolute;
+	width: 209px;
+	height: 35px;
+	left: 75%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+/* Group 1 */
+.days_group {
+	position: absolute;
+	width: 456px;
+	height: 35px;
+	top: 90px;
+	left: 25%;
+}
+
+
+
+
+/* Group 4 */
+.gestion_co2_group {
+	position: absolute;
+	width: 517px;
+	height: 35px;
+	left: 25%;
+	top: 210px;
+}
+
+
+
+/* Group 2 */
+.gestion_air_group {
+	position: absolute;
+	width: 501px;
+	height: 35px;
+	left: 25%;
+	top: 130px;
+}
+
+
+
+
+/* Group 3 */
+.gestion_hum_group {
+	position: absolute;
+	width: 527px;
+	height: 35px;
+	left: 25%;
+	top: 170px;
+}
+

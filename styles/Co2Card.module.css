@@ -1,0 +1,132 @@
+/* Rectangle 21 */
+.card_box {
+	position: absolute;
+	width: 561px;
+	height: 404px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* Group 7 */
+.new_variateur_group {
+	position: absolute;
+	width: 415px;
+	height: 35px;
+	left: 58px;
+	top: 294px;
+}
+
+
+
+
+/* 36 hz */
+.new_variateur_value {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	left: 322px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* nouvelle valeur */
+.new_variateur {
+	position: absolute;
+	width: 217px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+/* Group 6 */
+.variateur_group {
+	position: absolute;
+	width: 418px;
+	height: 38px;
+	left: 58px;
+	top: 157px;
+}
+
+
+
+
+/* 25 hz */
+.variateur_value {
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	left: 322px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* valeur variateur */
+.variateur {
+	position: absolute;
+	width: 217px;
+	height: 35px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* C02 */
+.card_title {
+	position: absolute;
+	width: 54px;
+	height: 35px;
+	left: 254px;
+	top: 31px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+

@@ -1,0 +1,260 @@
+/* Rectangle 17 */
+.card_box {
+	position: absolute;
+	width: 1207px;
+	height: 382px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* VanneFroid etat : */
+.vanne_state {
+	position: absolute;
+	width: 231.28px;
+	height: 34px;
+	left: 65%;
+	top: 50px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+}
+
+.vanne_state_value {
+	position: absolute;
+	width: 33px;
+	height: 34px;
+	left: 88%;
+	top: 50px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+}
+
+
+/* temps 40 sec */
+.time40s {
+	position: absolute;
+	width: 178.67px;
+	height: 34px;
+	left: 70%;
+	top: 250px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+}
+
+.time5s {
+	/* temps 5sec */
+
+	position: absolute;
+	width: 154.85px;
+	height: 34px;
+	left: 70%;
+	top: 100px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+
+}
+
+
+
+/* ventilateur Hum */
+.hum_fan {
+	position: absolute;
+	width: 259px;
+	height: 34px;
+	left: 30%;
+	top: 50px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* eau aux sol */
+.water_floor{
+	position: absolute;
+	width: 177px;
+	height: 34px;
+	left: 5%;
+	top: 50px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #000000;
+}
+
+
+/* Rectangle 18 */
+.water_floor_button {
+	position: absolute;
+	width: 176.68px;
+	height: 63px;
+	left: 5%;
+	top: 160px;
+
+	background: #3064EA;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.hum_fan_button {
+	position: absolute;
+	width: 176.68px;
+	height: 63px;
+	left: 33%;
+	top: 160px;
+
+	background: #3064EA;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.vanne_open5 {
+	position: absolute;
+	width: 176.68px;
+	height: 63px;
+	left: 60%;
+	top: 160px;
+
+	background: #3064EA;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.vanne_close5 {
+	position: absolute;
+	width: 187.6px;
+	height: 61px;
+	left: 78%;
+	top: 160px;
+
+	background: #E81D1D;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.vanne_open40 {
+	position: absolute;
+	width: 176.68px;
+	height: 63px;
+	left: 60%;
+	top: 300px;
+
+	background: #3064EA;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.vanne_close40 {
+	position: absolute;
+	width: 187.6px;
+	height: 61px;
+	left: 78%;
+	top: 300px;
+
+	background: #E81D1D;
+	border-radius: 15px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	line-height: 34px;
+	/* identical to box height */
+	text-align: center;
+
+	color: #FFFFFF;
+}

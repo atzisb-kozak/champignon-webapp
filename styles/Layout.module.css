@@ -1,0 +1,279 @@
+/* menu */
+.menu {
+	position: relative;
+	width: 211px;
+	height: 100vh;
+}
+
+.app_container {
+	position: absolute;
+	width: 89%;
+	height: 100vh;
+	left: 211px;
+	top: 0px;
+
+	background: #373964;
+}
+
+
+/* Rectangle 24 */
+.menu_container {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+	background: #373964;
+}
+
+
+
+/* groupe parametre */
+.parameter_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 20.41%;
+	bottom: 66.31%;
+}
+
+
+
+
+/* Rectangle 7 */
+.parameter_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* parametre */
+.parameter_text {
+	top: 30%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* group acceuil */
+.home_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 5.08%;
+	bottom: 81.64%;
+}
+
+
+
+
+/* Rectangle 13 */
+
+.home_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+/* acceuil */
+
+.home_text {
+	top: 30%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+/* groupe relay */
+.relay_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 35.74%;
+	bottom: 50.98%;
+}
+
+
+
+
+/* Rectangle 8 */
+.relay_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* gestion relay */
+.relay_text {
+	top: 15%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* groupeetalonage */
+.etalonnage_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 51.07%;
+	bottom: 35.64%;
+}
+
+
+
+
+/* Rectangle 9 */
+.etalonnage_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* etalonnage */
+.etalonnage_text {
+	top: 30%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* groupe courbe */
+.courbe_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 66.41%;
+	bottom: 20.31%;
+}
+
+
+
+
+/* Rectangle 14 */
+.courbe_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* Courbe */
+.courbe_text {
+	top: 30%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+
+
+/* groupe log */
+.log_bloc {
+	width: 156px;
+	height: 90px;
+	position: absolute;
+	left: 13.27%;
+	right: 12.8%;
+	top: 81.74%;
+	bottom: 4.98%;
+}
+
+
+
+
+/* Rectangle 15 */
+.log_form {
+	width: 156px;
+	height: 90px;
+
+	background: #C4C4C4;
+	border-radius: 15px;
+}
+
+
+
+/* LOG */
+.log_text {
+	top: 30%;
+	position: relative;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #000000;
+}
